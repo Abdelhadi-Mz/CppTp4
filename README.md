@@ -15,7 +15,7 @@ Un **compteur statique** suit le nombre total de livres créés, et les informat
    - Afficher le nombre total de livres créés.
 
 ### Capture du `main`
-![Capture main Livre](./screenshots/mainEx1jpg)
+![Capture main Livre](./screenshots/mainEx1.jpg)
 
 ### Résultats du programme
 Le programme affiche les informations complètes de chaque livre ajouté au catalogue, ainsi que le nombre total de livres.  
